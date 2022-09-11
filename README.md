@@ -1,4 +1,4 @@
-# AdventureOfAKnight
+# Adventure-of-A-Knight
 - To play this game, go [Adventure of a Knight](https://junlin-long.itch.io/project-cse450a2-junlinyuxuan?secret=BKeauyyhDVhtRrjExs93uq22n8Q).  
 
 ## Introduction
